@@ -1,8 +1,11 @@
-# 2021-COMP3016-W2: Free Project
+# C-Draw
 
 YouTube Walkthrough - https://youtu.be/RyvNNc3Rgdc
 
 Load the Visual Studio local debugger to try the application in the IDE, or visit my portfolio website to download the executable - https://www.connorbos-dev.com/c-draw
+
+## Background
+C-Draw is a C++ interactive application where users can use their mouse to draw on the canvas with a selection of settings to alter their brush. This was developed using OpenGL as part of an open choice University project.
 
 
 ## User Interaction:
